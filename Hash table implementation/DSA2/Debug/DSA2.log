@@ -1,0 +1,35 @@
+﻿  MyHash.c
+C:\Users\29313\source\repos\DSA2\DSA2\MyHash.c(22,21): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\29313\source\repos\DSA2\DSA2\MyHash.c(44,31): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\29313\source\repos\DSA2\DSA2\MyHash.c(69,36): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\29313\source\repos\DSA2\DSA2\MyHash.c(83,27): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\29313\source\repos\DSA2\DSA2\MyHash.c(93,38): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\29313\source\repos\DSA2\DSA2\MyHash.c(124,20): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\29313\source\repos\DSA2\DSA2\MyHash.c(61,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+C:\Users\29313\source\repos\DSA2\DSA2\MyHash.c(152,31): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\29313\source\repos\DSA2\DSA2\MyHash.c(161,37): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\29313\source\repos\DSA2\DSA2\MyHash.c(173,41): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  hash.c
+  test.c
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(33,19): warning C4020: 'tree_print': too many actual parameters
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(55,6): warning C4013: 'init' undefined; assuming extern returning int
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(57,8): warning C4013: 'insert' undefined; assuming extern returning int
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(68,10): warning C4013: 'print' undefined; assuming extern returning int
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(71,12): warning C4013: 'search' undefined; assuming extern returning int
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(79,10): warning C4098: 'HashTest1': 'void' function returning a value
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(87,12): warning C4013: 'initialize' undefined; assuming extern returning int
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(88,10): warning C4013: 'insertHT' undefined; assuming extern returning int
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(98,13): warning C4013: 'searchHT' undefined; assuming extern returning int
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(100,9): warning C4013: 'printHT' undefined; assuming extern returning int
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(215,32): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(231,19): warning C4020: 'tree_print': too many actual parameters
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(235,19): warning C4020: 'tree_print': too many actual parameters
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(248,19): warning C4020: 'tree_print': too many actual parameters
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(265,19): warning C4020: 'tree_print': too many actual parameters
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(325,19): warning C4020: 'tree_print': too many actual parameters
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(328,19): warning C4020: 'tree_print': too many actual parameters
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(331,19): warning C4020: 'tree_print': too many actual parameters
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(357,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\29313\source\repos\DSA2\DSA2\test.c(373,2): warning C4098: 'main': 'void' function returning a value
+  Generating Code...
+  DSA2.vcxproj -> C:\Users\29313\source\repos\DSA2\Debug\DSA2.exe

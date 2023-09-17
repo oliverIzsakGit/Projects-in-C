@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\29313\source\repos\PPIProject\PPIProject\Source.c(421,1): warning C4047: 'initializing': '__int64' differs in levels of indirection from 'void *'
+C:\Users\29313\source\repos\PPIProject\PPIProject\Source.c(425,6): warning C4101: 'pointInArray': unreferenced local variable
+  PPIProject.vcxproj -> C:\Users\29313\source\repos\PPIProject\Debug\PPIProject.exe
